@@ -3,9 +3,6 @@ import { StyleSheet, Text, View, FlatList } from 'react-native'
 import exercises from '../assets/data/exercises.json'
 import ExerciseListItem from '../components/ExerciseListItem'
 
-// Define el tipo de cada ejercicio
-
-
 
 export default function App () {
 
